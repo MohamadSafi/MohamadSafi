@@ -20,7 +20,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
 <p align="left">
   
-  <code><img height="50" src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png"></code>
+  <code><img height="45" src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-penguin-animal-vector-graphic-pixabay-21.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>

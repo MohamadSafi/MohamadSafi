@@ -12,13 +12,15 @@
 ### Programming languages :
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"></code>
+
 
 ### Tools :
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
 <p align="left">
   
-  
+  <code><img height="50" src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
@@ -39,13 +41,12 @@
 
 ## Links :
 
-  <a href="mailto:the.mohammad.safi@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="50" height="50" alt="email"/></a>
-  <a href="https://stackoverflow.com/users/18441836/mohammad-safi"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" width="50" height="50" alt="stackoverflow"/></a>
-  
-  
-  
+  <a href="mailto:the.mohammad.safi@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" width="40" height="40" alt="email"/></a>
+  <a href="https://stackoverflow.com/users/18441836/mohammad-safi"><img src="https://cdn.freebiesupply.com/logos/large/2x/stackoverflow-com-logo-png-transparent.png" width="40" height="40" alt="stackoverflow"/></a>
+  <a href="https://www.instagram.com/mohmmed_safi/"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" width="40" height="40" alt="instagram"/></a> 
+  <a href="https://www.linkedin.com/in/mohamad-safi"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40" height="40" alt="linkedin"/></a>
+    
+    
   <!-- 
-  <a href="YOUR LINK HERE"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="YOUR LINK HERE"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="TOUR LINK HERE"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 -->

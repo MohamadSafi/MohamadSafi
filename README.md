@@ -13,6 +13,10 @@
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
+<code><img height="60" width="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+
 
 
 ### Tools :

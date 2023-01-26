@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="200rem"; height="auto" src="./resources/img/materialHacker.png"/>
-  <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Mohammad Safi</h1>
+  <img width="300rem"; height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="10rem" src="./resources/img/waving.gif">, I'm Mohammad Safi</h1>
   <h3>I'm a computer sience student and an open-source developer</h3>
 </div>
 <br />
@@ -16,6 +16,8 @@
 <code><img height="40" width="40" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
 <code><img height="60" width="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+  <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/solidity.svg"> </code>
+
 
 
 

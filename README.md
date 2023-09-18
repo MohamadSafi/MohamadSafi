@@ -59,6 +59,12 @@
       width="40"
       height="40"
     /></code>
+        <code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    /></code>
     <code><img
       src="https://reactnative.dev/img/header_logo.svg"
       alt="reactnative"
@@ -77,6 +83,7 @@
       width="40"
       height="40"
     /></code>
+
 
     
 

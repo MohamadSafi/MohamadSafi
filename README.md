@@ -1,6 +1,7 @@
 <div align="center">
   <img width="300rem"; height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi 👋, I'm Mohammad Safi</h1>
+  <img src="https://img.shields.io/twitter/follow/mohammad_safi14">
   <h3>I like exploring tech, building anything that pops into my mind.</h3>
 </div>
 <br />

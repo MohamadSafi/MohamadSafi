@@ -1,7 +1,7 @@
 <div align="center">
   <img width="300rem"; height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi 👋, I'm Mohammad Safi</h1>
-  <img src="https://img.shields.io/twitter/follow/mohammad_safi14">
+  <img src="https://img.shields.io/twitter/follow/ZRealSafi">
   <h3>I like exploring tech, building anything that pops into my mind.</h3>
 </div>
 <br />
@@ -148,7 +148,7 @@
   <a href="https://stackoverflow.com/users/18441836/mohammad-safi"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
   <a href="https://www.linkedin.com/in/mohamad-safi"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/mohmmed_safi/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-  <a href="https://x.com/YOUR_USERNAME"><img src="https://img.icons8.com/40/ffffff/x"/></a>
+  <a href="https://x.com/ZRealSafi"><img src="https://img.icons8.com/40/ffffff/x"/></a>
   <a href="https://mohammadsafi.com"><img src="https://img.icons8.com/ios-filled/45/ffffff/domain.png" alt="Website"/></a>
 </div>
 

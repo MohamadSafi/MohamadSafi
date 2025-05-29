@@ -41,6 +41,9 @@ I'm a passionate technologist specializing in blockchain development and cryptoc
   <img src="https://img.shields.io/badge/LBank-2C3E50?style=for-the-badge&logo=lbank&logoColor=white" alt="LBank"/>
   <img src="https://img.shields.io/badge/TradingView-000000?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
+  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=14F195" alt="Solana"/>
+  <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor"/>
+  <img src="https://img.shields.io/badge/Serum-000000?style=for-the-badge&logo=serum&logoColor=white" alt="Serum"/>
 </p>
 
 ### Development Tools & Technologies
@@ -53,7 +56,6 @@ I'm a passionate technologist specializing in blockchain development and cryptoc
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
 
 ## 📈 GitHub Stats
 

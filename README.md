@@ -4,9 +4,6 @@
   # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   
   [![Twitter Follow](https://img.shields.io/twitter/follow/ZRealSafi?style=social)](https://twitter.com/ZRealSafi)
-  [![GitHub followers](https://img.shields.io/github/followers/MohamadSafi?style=social)](https://github.com/MohamadSafi)
-  [![Website](https://img.shields.io/badge/Website-mohammadsafi.com-blue)](https://mohammadsafi.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamad-safi)
 
   <h3>💻 Full Stack Developer | Blockchain Engineer | Crypto Trading Expert</h3>
 </div>
@@ -62,6 +59,8 @@ I'm a passionate technologist specializing in blockchain development and cryptoc
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamadSafi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MohamadSafi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />

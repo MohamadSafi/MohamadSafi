@@ -38,7 +38,7 @@ I'm a passionate technologist specializing in blockchain development and cryptoc
   <img src="https://img.shields.io/badge/Hardhat-FFD700?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/Truffle-2E2E2E?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle"/>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/>
-  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black" alt="Binance"/>
+  <img src="https://img.shields.io/badge/LBank-2C3E50?style=for-the-badge&logo=lbank&logoColor=white" alt="LBank"/>
   <img src="https://img.shields.io/badge/TradingView-000000?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
 </p>

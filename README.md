@@ -54,21 +54,6 @@ I'm a passionate technologist specializing in blockchain development and cryptoc
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-## 🔗 Blockchain Projects & Contributions
-
-- 🔸 **DeFi Protocol Development**: Built and audited smart contracts for lending and yield farming
-- 🔸 **NFT Marketplaces**: Developed NFT trading platforms with advanced features
-- 🔸 **Trading Bots**: Created automated trading systems using technical analysis
-- 🔸 **Cross-chain Solutions**: Implemented bridges and cross-chain token transfers
-- 🔸 **DAO Governance**: Designed and implemented decentralized governance systems
-
-## 📊 Trading Expertise
-
-- 📈 **Technical Analysis**: Advanced chart patterns and indicator development
-- 💹 **DeFi Yield Strategies**: Optimizing returns across protocols
-- 🤖 **Algorithmic Trading**: Developing and deploying automated strategies
-- 🔄 **Arbitrage Systems**: Cross-exchange and DEX arbitrage implementation
-- 🛡️ **Risk Management**: Portfolio optimization and hedging strategies
 
 ## 📈 GitHub Stats
 

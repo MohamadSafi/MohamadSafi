@@ -8,44 +8,67 @@
   [![Website](https://img.shields.io/badge/Website-mohammadsafi.com-blue)](https://mohammadsafi.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamad-safi)
 
-  <h3>💻 Full Stack Developer | Tech Explorer | Problem Solver</h3>
+  <h3>💻 Full Stack Developer | Blockchain Engineer | Crypto Trading Expert</h3>
 </div>
 
 ## 🚀 About Me
 
-I'm passionate about exploring technology and turning creative ideas into reality. My journey in tech has led me to work with various technologies and frameworks, always seeking to learn and build something new.
+I'm a passionate technologist specializing in blockchain development and cryptocurrency trading. With extensive experience in DeFi protocols, smart contract development, and algorithmic trading strategies, I combine technical expertise with market insights to build innovative solutions in the Web3 space.
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
 
-### Tools & Technologies
+### Blockchain & Trading Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardhat-FFD700?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/Truffle-2E2E2E?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle"/>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/>
+  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black" alt="Binance"/>
+  <img src="https://img.shields.io/badge/TradingView-000000?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"/>
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
+</p>
+
+### Development Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
+
+## 🔗 Blockchain Projects & Contributions
+
+- 🔸 **DeFi Protocol Development**: Built and audited smart contracts for lending and yield farming
+- 🔸 **NFT Marketplaces**: Developed NFT trading platforms with advanced features
+- 🔸 **Trading Bots**: Created automated trading systems using technical analysis
+- 🔸 **Cross-chain Solutions**: Implemented bridges and cross-chain token transfers
+- 🔸 **DAO Governance**: Designed and implemented decentralized governance systems
+
+## 📊 Trading Expertise
+
+- 📈 **Technical Analysis**: Advanced chart patterns and indicator development
+- 💹 **DeFi Yield Strategies**: Optimizing returns across protocols
+- 🤖 **Algorithmic Trading**: Developing and deploying automated strategies
+- 🔄 **Arbitrage Systems**: Cross-exchange and DEX arbitrage implementation
+- 🛡️ **Risk Management**: Portfolio optimization and hedging strategies
 
 ## 📈 GitHub Stats
 
